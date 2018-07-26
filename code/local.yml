@@ -1,5 +1,7 @@
 ---
 - hosts: localhost
+  become: yes
   tasks:
     - name: create file
       file: /home/rps/pull.txt stste=touch
+    - name: name=newuser state=present
