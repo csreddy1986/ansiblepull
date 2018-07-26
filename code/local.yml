@@ -4,4 +4,4 @@
   tasks:
     - name: create file
       file: /home/rps/pull.txt stste=touch
-    - name: name=newuser state=present
+    - user: name=newuser state=present
