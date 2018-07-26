@@ -1,0 +1,5 @@
+---
+- hosts: localhost
+  tasks:
+    - name: create file
+      file: /home/rps/pull.txt stste=touch
