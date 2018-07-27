@@ -1,0 +1,11 @@
+﻿{
+    "company_name": "ab3", 
+    "contact_email": "abe@talktotechie.com", 
+    "contact_name": "abc def", 
+    "hostname": "ecaadaafeda44ae197cd013afc3c8858", 
+    "instance_count": 10, 
+    "license_date": 2132245256, 
+    "license_key": "5e4f1aac692cccf995772c50df3f12cebc45c3a641dcb4c480205c2484bfa21c", 
+    "license_type": "basic", 
+    "subscription_name": "Red Hat Ansible Tower, Self-Support (10 Managed Nodes)"
+}

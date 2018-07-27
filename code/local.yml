@@ -3,5 +3,5 @@
   become: yes
   tasks:
     - name: create file
-      file: /home/rps/pull.txt stste=touch
+      file: path=/home/rps/pull.txt state=touch
     - user: name=newuser state=present
